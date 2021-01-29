@@ -1,1 +1,2 @@
-# T-cnico-Inform-tica-Desesenvolvedor-Web-Fullstack-SENAI
+# Técnico em Informática **(Desenvolvedor Web Fullstack)** SENAI
+### Conteúdo das disciplinas do curso Técnico em Informática do Senai
