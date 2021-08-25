@@ -1,2 +1,4 @@
 # Técnico em Informática **(Desenvolvedor Web Fullstack)** SENAI
-### Conteúdo das disciplinas do curso Técnico em Informática do Senai
+### Algoritmos 
+### Technologies:
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
